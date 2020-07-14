@@ -11,6 +11,6 @@
 #### How to add .wav file into LTSpice
 Make sure you place the .wav file into the same folder as .asc files being used
 
-![image info](https://github.com/evan-tan/3161_design_project/blob/master/resources/voltage_settings.PNG)
+![image info](https://github.com/evan-tan/3161-design-project/blob/master/resources/voltage_settings.PNG)
 
 Set DC value to `wavefile=YOUR_WAVE_FILE.wav chan=0`
