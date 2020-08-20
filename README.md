@@ -1,5 +1,5 @@
 # 3161_design_project
-
+Design Project for ECE3161: Analogue Circuits
 ### Software used
 - [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 - [Audacity](https://www.audacityteam.org/)
